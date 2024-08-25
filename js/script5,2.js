@@ -1,6 +1,5 @@
 let f = window.prompt("Digite uma frase");
 
-
 document.write(f + "<br>");
 let tamanho = f.length;
 for (let i = 0; i < tamanho; ) {

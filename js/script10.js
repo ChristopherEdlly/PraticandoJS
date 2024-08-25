@@ -1,1 +1,1 @@
-document.write('O nome dessa pagina é ' + document.title)
+document.write('O nome dessa pagina é: ' + document.title)
